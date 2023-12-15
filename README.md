@@ -21,3 +21,7 @@ Training and Validation 14. Training Loop: Trains the model for a specified numb
 Testing and Evaluation 16. Test Dataset and Loader: Prepares the test dataset and loader. 17. Model Evaluation: Evaluates the model on the test dataset, computes the confusion matrix, and visualizes it. 18. Accuracy Plotting: Plots training and validation accuracy over epochs.
 
 Prediction and Visualization 19. Prediction Function: Defines a function for making predictions with the model. 20. Class Names: Specifies the class names for the dataset. 21. Image Denormalization: Defines a function to denormalize images for visualization. 22. Image Visualization: Visualizes a batch of images with their predicted and actual labels.
+
+![image](https://github.com/achu5076/Medical_Waste_segregation/assets/102239585/8c525900-9ad6-4bd3-86f7-b245370958bd)
+![image](https://github.com/achu5076/Medical_Waste_segregation/assets/102239585/02a95813-d723-4dab-b064-ef9910050613)
+
