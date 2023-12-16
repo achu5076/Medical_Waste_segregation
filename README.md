@@ -1,5 +1,7 @@
 # Medical_Waste_segregation
- The Medical Waste Segregation using Machine Learning project is a significant endeavor that addresses the pressing issue of medical waste management. By integrating machine learning technology, we aim to enhance the accuracy and efficiency of waste segregation, contributing to a safer and more sustainable healthcare environment. This code is part of a project that uses TensorFlow and PyTorch for image classification. The project appears to be focused on classifying medical waste images. Here's a breakdown of the code:
+ The Medical Waste Segregation using Machine Learning project is a significant endeavor that addresses the pressing issue of medical waste management. By integrating machine learning technology, we aim to enhance the accuracy and efficiency of waste segregation, contributing to a safer and more sustainable healthcare environment. This code is part of a project that uses TensorFlow and PyTorch for image classification. The project is focused on classifying medical waste images. 
+Here's how the code works:
+
 
 Setup and Data Preparation
 
@@ -10,7 +12,7 @@ PyTorch and Other Libraries: Imports PyTorch, its neural network module, optimiz
 GPU Configuration in TensorFlow: Configures TensorFlow to use GPU efficiently by setting memory growth.
 Mount Google Drive: Mounts Google Drive to access the dataset stored there.
 Dataset Exploration: Explores the dataset by listing the number of images in each class in the training, testing, and validation directories.
-Custom Dataset Class 8. Custom Dataset Class: Defines a custom dataset class for PyTorch that loads images and their labels from a directory.
+Custom Dataset Class. Custom Dataset Class: Defines a custom dataset class for PyTorch that loads images and their labels from a directory.
 
 Data Augmentation and Loading 9. Data Augmentation: Defines transformations for data augmentation and normalization for training data. 10. Data Loaders: Creates data loaders for training, validation, and testing datasets using the custom dataset class and transformations.
 
